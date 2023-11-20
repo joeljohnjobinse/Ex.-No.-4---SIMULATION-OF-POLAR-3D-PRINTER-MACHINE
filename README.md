@@ -1,6 +1,6 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
+### DATE: 13/11/2023
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -32,9 +32,18 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+# The R-axis:
+It refers to the distance pattern from the center of the object to be printed to the print head. The printer has an arm-like extension to help move it along this axis; this arm-like extension carries the end from which the filament comes out.
 
-### Name:
-### Register Number:
+# The Y-axis:
+The Y-axis refers to the rotational movement of the printer bed. The printer bed is rotated by a motor present in the printer, according to the values put in by the user.
+
+# The Z-axis:
+The Z-axis refers to the vertical movement of the print head. This helps the printer to create more layers while printing, just as in the sliced version of the design of the object to be printed.
+
+
+### Name: Joel John Jobinse
+### Register Number: 23008174
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
